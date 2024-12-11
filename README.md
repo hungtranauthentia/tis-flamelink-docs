@@ -889,7 +889,7 @@
             <td rowspan=1>Consumer User Listing Flow</td>
             <td>listingVehicleSplashScreen</td>
             <td><a href="#listing-vehicle-splash">Listing Vehicle Splash</a></td>
-            <td rowspan=1><a href="Step 2 - Vehicle details">https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=1326-21784&t=fi0n13JwNoCWOkPE-4</a></td>
+            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=1326-21784&t=fi0n13JwNoCWOkPE-4">Step 2 - Vehicle details</a></td>
             <td rowspan=1><a href="src/screens/vehicle-details-splash/index.tsx">src/screens/vehicle-details-splash/index.tsx</a></td>
             </tr>
 <tr>
