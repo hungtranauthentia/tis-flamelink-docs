@@ -21,6 +21,14 @@
             <td rowspan=1><a href="src/screens/account-information/index.tsx">src/screens/account-information/index.tsx</a></td>
             </tr>
 <tr>
+            <td rowspan=1>Autocomplete Address</td>
+            <td rowspan=1>Consumer User Listing Flow</td>
+            <td>autocompleteAddressScreen</td>
+            <td><a href="#autocomplete-address">Autocomplete Address</a></td>
+            <td rowspan=1><a href="undefined"></a></td>
+            <td rowspan=1><a href="src/screens/autocomplete-address/index.tsx">src/screens/autocomplete-address/index.tsx</a></td>
+            </tr>
+<tr>
             <td rowspan=2>Listing Awaiting Decision</td>
             <td rowspan=2>Consumer User Listing Flow</td>
             <td>listingAwaitingDecisionScreen</td>
@@ -329,6 +337,22 @@
             <td rowspan=1><a href="src/screens/lien-payment-flyover/index.tsx">src/screens/lien-payment-flyover/index.tsx</a></td>
             </tr>
 <tr>
+            <td rowspan=1>Lien Payment Info</td>
+            <td rowspan=1>Consumer User Listing Flow</td>
+            <td>lienPaymentInfoScreen</td>
+            <td><a href="#lien-payment-info">Lien Payment Info</a></td>
+            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=17165-13485&t=TMHhbbUJFwg6RHVu-4">lien info</a></td>
+            <td rowspan=1><a href="src/screens/lien-payment-info/index.tsx">src/screens/lien-payment-info/index.tsx</a></td>
+            </tr>
+<tr>
+            <td rowspan=1>Lien Payment Info Next Steps</td>
+            <td rowspan=1>Consumer User Listing Flow</td>
+            <td>lienPaymentInfoNextStepsScreen</td>
+            <td><a href="#lien-payment-info-next-steps">Lien Payment Info Next Steps</a></td>
+            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=17094-53427&m=dev">Scheduling next steps</a></td>
+            <td rowspan=1><a href="src/screens/lien-payment-info-next-steps/index.tsx">src/screens/lien-payment-info-next-steps/index.tsx</a></td>
+            </tr>
+<tr>
             <td rowspan=2>Listing Tab Screen</td>
             <td rowspan=2>Consumer User Listing Flow</td>
             <td>listingTabScreen</td>
@@ -393,7 +417,7 @@
             <td rowspan=1>Consumer User Listing Flow</td>
             <td>listingSplashScreen</td>
             <td><a href="#listing-splash">Listing Splash</a></td>
-            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=1287-2844&t=fi0n13JwNoCWOkPE-4">Listing vehicle - Splash</a></td>
+            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=17124-17559&t=ytd6zkSVYZSSAhmB-4">Listing vehicle - Splash</a></td>
             <td rowspan=1><a href="src/screens/listing-splash/index.tsx">src/screens/listing-splash/index.tsx</a></td>
             </tr>
 <tr>
@@ -629,7 +653,7 @@
             <td rowspan=1>Consumer User Listing Flow</td>
             <td>listingPhotoIntroScreen</td>
             <td><a href="#car-photos---camera-intro">Car Photos - Camera intro</a></td>
-            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=6272-54610&t=fi0n13JwNoCWOkPE-4">Uploading photos - Intro</a></td>
+            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=17094-57032&m=dev">Uploading photos - Intro</a></td>
             <td rowspan=1><a href="src/screens/photo-intro/index.tsx">src/screens/photo-intro/index.tsx</a></td>
             </tr>
 <tr>
@@ -637,7 +661,7 @@
             <td rowspan=1>Consumer User Listing Flow</td>
             <td>listingPhotoTakeScreen</td>
             <td><a href="#car-photos---guided-behaviour---take-photo">Car Photos - Guided Behaviour - Take Photo</a></td>
-            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=6272-54717&t=fi0n13JwNoCWOkPE-4">Guided Behavior</a></td>
+            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=17094-53110&m=dev">Photo</a></td>
             <td rowspan=1><a href="src/screens/photo-take/index.tsx">src/screens/photo-take/index.tsx</a></td>
             </tr>
 <tr>
@@ -645,7 +669,7 @@
             <td rowspan=1>Consumer User Listing Flow</td>
             <td>listingPhotoTipsScreen</td>
             <td><a href="#car-photos---camera-tips">Car Photos - Camera tips</a></td>
-            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=6272-54433&t=fi0n13JwNoCWOkPE-4">Camera tips</a></td>
+            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=17094-52772&m=dev">Camera tips</a></td>
             <td rowspan=1><a href="src/screens/photo-tips/index.tsx">src/screens/photo-tips/index.tsx</a></td>
             </tr>
 <tr>
@@ -653,7 +677,7 @@
             <td rowspan=1>Consumer User Listing Flow</td>
             <td>listingPhotoTipsFlyoverScreen</td>
             <td><a href="#car-photos---photo-tip---flyover">Car Photos - Photo tip - flyover</a></td>
-            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=6272-54811&t=fi0n13JwNoCWOkPE-4">Photo tip - flyover</a></td>
+            <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=17094-53081&m=dev">Photo tip - flyover</a></td>
             <td rowspan=1><a href="src/screens/photo-tips-flyover/index.tsx">src/screens/photo-tips-flyover/index.tsx</a></td>
             </tr>
 <tr>
@@ -912,6 +936,14 @@
             <td rowspan=1><a href="https://www.figma.com/design/uClUy5en6HbuPTKbHG5eKy/Sprint-1?node-id=16446-28276&t=fi0n13JwNoCWOkPE-4">Drawer</a></td>
             <td rowspan=1><a href="src/screens/video-drawer/index.tsx">src/screens/video-drawer/index.tsx</a></td>
             </tr>
+<tr>
+            <td rowspan=1>Not imported into Flamelink</td>
+            <td rowspan=1>Consumer User Listing Flow</td>
+            <td>listingVinOcrScreen</td>
+            <td><a href="#not-imported-into-flamelink">Not imported into Flamelink</a></td>
+            <td rowspan=1><a href="undefined"></a></td>
+            <td rowspan=1><a href="src/screens/vin-ocr/index.tsx">src/screens/vin-ocr/index.tsx</a></td>
+            </tr>
       </tbody>
       </table>
 
@@ -937,6 +969,12 @@
 - alertDeleteMessage
 - alertNotBeDeactivatedTitle
 - alertNotBeDeactivatedMessage
+
+#### Autocomplete Address
+- id
+- headerTitle
+- searchPlaceholder
+- notFoundPlace
 
 #### Listing Awaiting Decision
 - ctaBack
@@ -1117,12 +1155,14 @@
 - noAvailableCasesMessage
 - listingAssistanceMessage
 - caseAssistanceMessage
+- topicAssistanceMessage
 - back
 - backToPreviousConversation
 - outsideBusinessHoursRange
 - ctaViewDetails
 - backNotificationTitle
 - backNotificationBody
+- chatbotLeftChat
 
 #### Chat Support List
 - headerTitle
@@ -1420,6 +1460,7 @@
 - ctaConfirm
 - ctaCancel
 - uploadLimit
+- uploadLimitTitle
 - tryAgain
 - newFile
 - uploadSection
@@ -1447,6 +1488,21 @@
 - description
 - descriptions
 
+#### Lien Payment Info
+- headerTitle
+- title
+- content
+- descriptions
+- ctaSubmit
+
+#### Lien Payment Info Next Steps
+- headerTitle
+- title
+- content
+- acceptedOffer
+- descriptions
+- ctaSubmit
+
 #### Listing Tab Screen
 - headerTitle
 - title
@@ -1455,9 +1511,46 @@
 - tooltip
 - warningBanner
 - confettiAnimation
+- saleSuccessTitle
+- saleSuccessMessage
+- accessDealersTitle
+- addAVehicleInstruction
+- ctaFinishMyTask
+- ctaScheduleTradeIn
+- ctaReviewUpcomingTradeIn
+- ctaReviewTradeInDetails
+- reconfirmTradeInOrSell
+- nextStepsBasedOnDecision
+- verifyIdentity
+- verifiedIdentity
+- callDealershipToSchedule
+- bringVehicleToDealership
+- completeTradeInAtDealership
+- timeRemainingForStep
+- acceptedOffer
+- stepsCompleted
+- upcomingAction
+- payOwedLienDelta
+- payLienDeltaNotApplicable
+- waitForBuyerConfirmation
+- waitForBuyerConfirmationNotApplicable
+- ctaConfirmPayment
+- ctaReviewListingDetails
+- ctaVerifyNow
+- confirmVehiclePickup
+- verifyVehicleConditionForPickup
+- waitForPickupArrangement
+- confirmVehiclePickupCompletion
+- transactionRiskAlert
+- investigatingLienIssue
+- issueReportedByBuyer
+- welcomeMessage
+- transactionAlmostComplete
+- finishStepNow
 
 #### Listing Details
 - headerTitle
+- vehicleMediaTitle
 - vehicleInformation
 - vehicle
 - vehicleEquipment
@@ -1489,6 +1582,8 @@
 - zeroKey
 - oneKeys
 - twoOrMoreKeys
+- editDeadline
+- editTimeRestriction
 
 #### Car Photos - Photo Categories&Labels
 - iconExterior
@@ -1562,6 +1657,7 @@
 - invalidCarfaxContent
 - financeOrLeased
 - headerTitle
+- vehicleMediaTitle
 - vehicleInformation
 - vehicle
 - vehicleEquipment
@@ -1592,6 +1688,8 @@
 - zeroKey
 - oneKeys
 - twoOrMoreKeys
+- editDeadline
+- editTimeRestriction
 - ctaSaveAndExit
 - ctaBack
 - ctaContinue
@@ -1742,6 +1840,7 @@
 - yourCounterOffer
 - counterOfferAmount
 - helperText
+- placeholderCounterOffer
 
 #### Offer Counter Successful
 - title
@@ -1773,6 +1872,7 @@
 - confirmLastCounterOfferMessage
 - ctaBack
 - ctaContinue
+- whatAnOffer
 
 #### Auth Registration Onboarding
 - id
@@ -1957,6 +2057,7 @@
 - financeOrLeased
 - ctaDelete
 - headerTitle
+- vehicleMediaTitle
 - vehicleInformation
 - vehicle
 - vehicleEquipment
@@ -1985,6 +2086,8 @@
 - zeroKey
 - oneKeys
 - twoOrMoreKeys
+- editDeadline
+- editTimeRestriction
 - ctaSaveAndExit
 - ctaBack
 - ctaContinue
@@ -2088,6 +2191,7 @@
 - confirmCarDescription
 - ctaBack
 - ctaSubmit
+- ctaDetectVIN
 
 #### Listing Upload VIN Splash
 - id
@@ -2287,3 +2391,10 @@
 #### Car Photos - Video upload - Drawer
 - headerTitle
 - videoUrl
+
+#### Not imported into Flamelink
+- id
+- title
+- content
+- ctaSubmit
+- ctaCancel
